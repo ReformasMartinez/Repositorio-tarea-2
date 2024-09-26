@@ -12,7 +12,7 @@ def bin2dec(numero_binario):
 
     if numero_binario[0] == "1":
         numero_decimal -= 2**(len(numero_binario)-1)
-    return numero_decimal
+    return numero_decimal.
 
 # ----------------------------------------
 # MAIN
